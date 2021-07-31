@@ -4,7 +4,7 @@ description: >-
   briefing of git commands to manage a GitHub repository.
 ---
 
-# Setting Things Up
+# Installing Python
 
 Lab exercises will introduce programming for signal processing using Python. It will help to know C and Octave/MATLAB from the Signals and Systems course, as a prerequisite.
 

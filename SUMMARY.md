@@ -1,6 +1,6 @@
 # Table of contents
 
 * [DIGITAL SIGNAL PROCESSING](README.md)
-* [Setting Things Up](installing-python/README.md)
-  * [Anaconda and Jupyter](installing-python/anaconda-and-jupyter.md)
+* [Installing Python](installing-python/README.md)
+  * [Untitled](installing-python/untitled.md)
 

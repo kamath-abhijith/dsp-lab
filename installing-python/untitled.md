@@ -1,4 +1,4 @@
-# Anaconda
+# Installing Anaconda
 
 Python offers plenty of open-source packages that can be managed using a package manager like Anaconda. We will install a lite version called Miniconda. Download the relevant installation file from [Miniconda/Download](https://docs.conda.io/en/latest/miniconda.html).
 

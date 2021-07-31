@@ -1,3 +1,6 @@
-# DSP-LAB EXAMPLES
+# DIGITAL SIGNAL PROCESSING
 
-This repository contains examples of signal processing tools intended as supplements for an undergraduate level Digital Signal Processing course.
+
+
+
+
